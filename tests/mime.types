@@ -1,0 +1,9 @@
+application/geo+json geojson
+application/vnd.vegalite.v2+json vl
+text/vnd.yaml yaml
+text/vnd.yaml yml
+text/markdown md
+text/markdown markdown
+application/x-sqlite3 sqlite
+application/feather feather
+application/x-ipynb+json ipynb

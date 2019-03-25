@@ -1,0 +1,12 @@
+requests
+pandas
+notebook
+nbconvert
+requests_cache
+pyld
+pandas
+feather
+altair
+pytest
+importnb
+nbval
