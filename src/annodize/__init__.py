@@ -1,7 +1,7 @@
 __all__ = 'context',
 
 with __import__('importnb').Notebook():
-    from .annodize import context
+    from .annodize import context, app
     
 
 def load_ipython_extension(shell):
