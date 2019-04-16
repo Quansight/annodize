@@ -1,7 +1,7 @@
 __all__ = 'context',
 
 with __import__('importnb').Notebook():
-    from .annodize import Interface, Function, Union, U
+    from .annodize import Interface, Function, Union, U, Display
     from . import annodize, formatters, tracking
     
 def load_ipython_extension(shell):
