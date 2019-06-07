@@ -25,13 +25,8 @@ setup_args = dict(
     setup_requires=[],
     install_requires=[],
     extras_require={},
-    package_dir={
-        '':'src',
-    },
-       packages=setuptools.find_packages(where='src'),
-
     include_package_data=True,
-    py_modules=['ypp', 'maus'],
+    py_modules=[name],
     classifiers=(
         "Development Status :: 4 - Beta",
         "Framework :: IPython",
