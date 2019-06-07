@@ -7,3 +7,4 @@ dependencies:
 - panel
 - ipywidgets
 - importnb
+- toolz
