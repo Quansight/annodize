@@ -1,0 +1,8 @@
+name: annodize
+channels:
+- conda-forge
+- pyviz
+dependencies:
+- pandas
+- panel
+- ipywidgets
